@@ -1,0 +1,1101 @@
+2026-01-17 23:58:07,284 [DEBUG] [MainThread] [systray_widget/systray.py:526]: Loading state from C:\Users\ASUS\AppData\Local\YASB\systray_state_ONYMEDISPLAY1.json
+2026-01-17 23:58:07,298 [DEBUG] [SystrayMonitor] [systray_widget/systray.py:57]: Systray thread is starting...
+2026-01-17 23:58:07,323 [DEBUG] [SystrayMonitor] [systray_widget/systray_monitor.py:242]: Finding real tray hwnd
+2026-01-17 23:58:07,334 [DEBUG] [MainThread] [systray_widget/systray.py:277]: Systray thread started
+2026-01-17 23:58:07,353 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-506afa19-f3bd-11f0-a1c8-a424cece2db1
+2026-01-17 23:58:07,470 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-17 23:58:07.470471
+2026-01-17 23:58:07,535 [DEBUG] [SystrayMonitor] [systray_widget/systray_monitor.py:164]: Adding TaskbandHWND prop to hwnd 4524334
+2026-01-17 23:58:07,548 [DEBUG] [MainThread] [systray_widget/systray_monitor.py:157]: Sending TaskbarCreated message: 49273
+2026-01-17 23:58:15,810 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2026-01-17 23:58:15,920 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2026-01-17 23:58:15,920 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2026-01-17 23:58:15,924 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2026-01-17 23:58:16,010 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2026-01-17 23:58:16,011 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2026-01-17 23:58:16,014 [DEBUG] [MainThread] [systray_widget/systray.py:504]: Saving state to disk
+2026-01-17 23:58:16,015 [DEBUG] [MainThread] [systray_widget/systray.py:508]: Saving state to C:\Users\ASUS\AppData\Local\YASB\systray_state_ONYMEDISPLAY1.json
+2026-01-17 23:58:16,015 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 4524334
+2026-01-17 23:58:16,025 [INFO] [Dummy-5] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2026-01-17 23:58:16,037 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2026-01-17 23:58:16,045 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2026-01-17 23:58:16,049 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2026-01-17 23:58:16,058 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 4524334
+2026-01-17 23:58:16,341 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-17 23:58:16,342 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-17 23:58:16,342 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-17 23:58:16,931 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2026-01-17 23:58:17,159 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2026-01-17 23:58:17,160 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2026-01-17 23:58:17,162 [INFO] [Dummy-3] [root/event_listener.py:51]: Created named pipe yasb-565a198c-f3bd-11f0-aca5-a424cece2db1
+2026-01-17 23:58:17,164 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ASUS\.config\yasb
+2026-01-17 23:58:17,227 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-17 23:58:17,227 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-17 23:58:17,230 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-17 23:58:17,231 [DEBUG] [MainThread] [systray_widget/systray.py:526]: Loading state from C:\Users\ASUS\AppData\Local\YASB\systray_state_ONYMEDISPLAY1.json
+2026-01-17 23:58:17,237 [DEBUG] [SystrayMonitor] [systray_widget/systray.py:57]: Systray thread is starting...
+2026-01-17 23:58:17,275 [INFO] [Dummy-3] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-565a198c-f3bd-11f0-aca5-a424cece2db1
+2026-01-17 23:58:17,278 [DEBUG] [MainThread] [systray_widget/systray.py:277]: Systray thread started
+2026-01-17 23:58:17,301 [DEBUG] [SystrayMonitor] [systray_widget/systray_monitor.py:242]: Finding real tray hwnd
+2026-01-17 23:58:17,333 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-17 23:58:17.333044
+2026-01-17 23:58:17,478 [DEBUG] [SystrayMonitor] [systray_widget/systray_monitor.py:164]: Adding TaskbandHWND prop to hwnd 5704668
+2026-01-17 23:58:17,492 [DEBUG] [MainThread] [systray_widget/systray_monitor.py:157]: Sending TaskbarCreated message: 49273
+2026-01-18 00:00:17,666 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2026-01-18 00:00:17,778 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2026-01-18 00:00:17,778 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2026-01-18 00:00:17,783 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2026-01-18 00:00:17,865 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2026-01-18 00:00:17,865 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2026-01-18 00:00:17,868 [DEBUG] [MainThread] [systray_widget/systray.py:504]: Saving state to disk
+2026-01-18 00:00:17,868 [DEBUG] [MainThread] [systray_widget/systray.py:508]: Saving state to C:\Users\ASUS\AppData\Local\YASB\systray_state_ONYMEDISPLAY1.json
+2026-01-18 00:00:17,869 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 5704668
+2026-01-18 00:00:17,886 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2026-01-18 00:00:17,888 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2026-01-18 00:00:17,893 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2026-01-18 00:00:17,910 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 5704668
+2026-01-18 00:00:18,195 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-18 00:00:18,196 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-18 00:00:18,196 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-18 00:00:18,671 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2026-01-18 00:00:18,868 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2026-01-18 00:00:18,868 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2026-01-18 00:00:18,872 [INFO] [Dummy-3] [root/event_listener.py:51]: Created named pipe yasb-9ee563f0-f3bd-11f0-a769-a424cece2db1
+2026-01-18 00:00:18,873 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ASUS\.config\yasb
+2026-01-18 00:00:18,928 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-18 00:00:18,928 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-18 00:00:18,932 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-18 00:00:18,999 [INFO] [Dummy-3] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-9ee563f0-f3bd-11f0-a769-a424cece2db1
+2026-01-18 00:00:19,126 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-18 00:00:19.126512
+2026-01-18 00:02:15,155 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2026-01-18 00:02:15,259 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2026-01-18 00:02:15,259 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2026-01-18 00:02:15,263 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2026-01-18 00:02:15,345 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2026-01-18 00:02:15,345 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2026-01-18 00:02:15,350 [INFO] [Dummy-3] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2026-01-18 00:02:15,368 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2026-01-18 00:02:15,401 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2026-01-18 00:02:15,410 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2026-01-18 00:02:15,666 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-18 00:02:15,666 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-18 00:02:15,666 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-18 00:02:16,064 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2026-01-18 00:02:16,254 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2026-01-18 00:02:16,258 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2026-01-18 00:02:16,259 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ASUS\.config\yasb
+2026-01-18 00:02:16,276 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-e4ddb058-f3bd-11f0-a330-a424cece2db1
+2026-01-18 00:02:16,312 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-18 00:02:16,313 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-18 00:02:16,315 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-18 00:02:16,433 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-e4ddb058-f3bd-11f0-a330-a424cece2db1
+2026-01-18 00:02:16,656 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-18 00:02:16.656343
+2026-01-18 00:02:24,853 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2026-01-18 00:02:24,967 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2026-01-18 00:02:24,968 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2026-01-18 00:02:24,979 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2026-01-18 00:02:25,063 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2026-01-18 00:02:25,063 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2026-01-18 00:02:25,083 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2026-01-18 00:02:25,090 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2026-01-18 00:02:25,092 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2026-01-18 00:02:25,101 [INFO] [Dummy-5] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2026-01-18 00:02:25,390 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-18 00:02:25,391 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-18 00:02:25,392 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-18 00:02:25,804 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2026-01-18 00:02:26,003 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2026-01-18 00:02:26,003 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2026-01-18 00:02:26,006 [INFO] [Dummy-3] [root/event_listener.py:51]: Created named pipe yasb-eaaca58e-f3bd-11f0-a684-a424cece2db1
+2026-01-18 00:02:26,008 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ASUS\.config\yasb
+2026-01-18 00:02:26,063 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-18 00:02:26,063 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-18 00:02:26,065 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-18 00:02:26,113 [INFO] [Dummy-3] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-eaaca58e-f3bd-11f0-a684-a424cece2db1
+2026-01-18 00:02:26,212 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-18 00:02:26.212183
+2026-01-18 00:12:25,856 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-18 00:12:25.856301
+2026-01-18 00:19:51,014 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2026-01-18 00:19:51,119 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2026-01-18 00:19:51,119 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2026-01-18 00:19:51,132 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2026-01-18 00:19:51,233 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2026-01-18 00:19:51,234 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2026-01-18 00:19:51,239 [INFO] [Dummy-3] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2026-01-18 00:19:51,256 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2026-01-18 00:19:51,260 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2026-01-18 00:19:51,266 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2026-01-18 00:19:52,607 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-18 00:19:52,607 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-18 00:19:52,608 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-18 00:19:53,362 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2026-01-18 00:19:53,776 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2026-01-18 00:19:53,781 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2026-01-18 00:19:53,782 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ASUS\.config\yasb
+2026-01-18 00:19:53,784 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-5b32ec96-f3c0-11f0-8b3c-a424cece2db1
+2026-01-18 00:19:53,858 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-18 00:19:53,858 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-18 00:19:53,860 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-18 00:19:53,923 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-5b32ec96-f3c0-11f0-8b3c-a424cece2db1
+2026-01-18 00:19:54,218 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-18 00:19:54.218594
+2026-01-18 00:26:07,113 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2026-01-18 00:26:07,226 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2026-01-18 00:26:07,226 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2026-01-18 00:26:07,231 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2026-01-18 00:26:07,323 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2026-01-18 00:26:07,324 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2026-01-18 00:26:07,338 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2026-01-18 00:26:07,340 [INFO] [Dummy-5] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2026-01-18 00:26:07,350 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2026-01-18 00:26:07,355 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2026-01-18 00:26:07,640 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-18 00:26:07,640 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-18 00:26:07,641 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-18 00:26:08,130 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2026-01-18 00:26:08,359 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2026-01-18 00:26:08,359 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2026-01-18 00:26:08,363 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ASUS\.config\yasb
+2026-01-18 00:26:08,363 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-3a76edd0-f3c1-11f0-ae19-a424cece2db1
+2026-01-18 00:26:08,416 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-18 00:26:08,417 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-18 00:26:08,418 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-18 00:26:08,524 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-3a76edd0-f3c1-11f0-ae19-a424cece2db1
+2026-01-18 00:26:09,191 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-18 00:26:09.191395
+2026-01-18 00:26:56,871 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2026-01-18 00:26:56,974 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2026-01-18 00:26:56,975 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2026-01-18 00:26:56,980 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2026-01-18 00:26:57,081 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2026-01-18 00:26:57,081 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2026-01-18 00:26:57,087 [INFO] [Dummy-5] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2026-01-18 00:26:57,104 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2026-01-18 00:26:57,116 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2026-01-18 00:26:57,118 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2026-01-18 00:26:57,406 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-18 00:26:57,407 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-18 00:26:57,407 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-18 00:26:58,074 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2026-01-18 00:26:58,394 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2026-01-18 00:26:58,395 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2026-01-18 00:26:58,398 [INFO] [Dummy-3] [root/event_listener.py:51]: Created named pipe yasb-5849be99-f3c1-11f0-92c1-a424cece2db1
+2026-01-18 00:26:58,400 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ASUS\.config\yasb
+2026-01-18 00:26:58,461 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-18 00:26:58,461 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-18 00:26:58,465 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-18 00:26:58,531 [INFO] [Dummy-3] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-5849be99-f3c1-11f0-92c1-a424cece2db1
+2026-01-18 00:26:58,572 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-18 00:26:58.572690
+2026-01-18 00:36:58,044 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-18 00:36:58.043901
+2026-01-18 00:46:58,113 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-18 00:46:58.113227
+2026-01-18 00:56:59,292 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-18 00:56:59.292813
+2026-01-18 01:06:58,243 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-18 01:06:58.243416
+2026-01-18 01:16:58,300 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-18 01:16:58.300756
+2026-01-18 01:23:52,956 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: stop
+2026-01-18 01:23:52,957 [INFO] [Thread-1 (_run_server)] [root/controller.py:35]: Exiting Application from CLI...
+2026-01-18 01:23:53,063 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2026-01-18 01:23:53,064 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2026-01-18 01:23:53,147 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2026-01-18 01:23:53,150 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2026-01-18 01:23:53,174 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2026-01-18 01:23:53,177 [INFO] [Dummy-3] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2026-01-18 01:23:53,189 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2026-01-18 01:23:53,193 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2026-01-18 01:23:54,501 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-18 01:23:54,501 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-18 01:23:54,502 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-18 01:23:54,966 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2026-01-18 01:23:55,025 [INFO] [MainThread] [root/api.py:60]: GitHubDataManager started...
+2026-01-18 01:23:55,148 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ASUS\.config\yasb
+2026-01-18 01:23:55,195 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-18 01:23:55,195 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-18 01:23:55,197 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-18 01:23:55,378 [ERROR] [Thread-3 (_fetch)] [root/api.py:315]: GitHubDataManager no internet connection. Unable to fetch notifications.
+2026-01-18 01:23:55,605 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2026-01-18 01:23:55,605 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:23:58,168 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: stop
+2026-01-18 01:23:58,168 [INFO] [Thread-1 (_run_server)] [root/controller.py:35]: Exiting Application from CLI...
+2026-01-18 01:23:58,279 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2026-01-18 01:23:58,279 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2026-01-18 01:23:58,333 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2026-01-18 01:23:58,340 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2026-01-18 01:23:58,341 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2026-01-18 01:23:59,744 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-18 01:23:59,744 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-18 01:23:59,745 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-18 01:24:00,604 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2026-01-18 01:24:00,777 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2026-01-18 01:24:00,777 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2026-01-18 01:24:00,778 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ASUS\.config\yasb
+2026-01-18 01:24:00,795 [INFO] [Dummy-8] [root/event_listener.py:51]: Created named pipe yasb-502fdaa8-f3c9-11f0-aa33-a424cece2db1
+2026-01-18 01:24:00,820 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-18 01:24:00,821 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-18 01:24:00,822 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-18 01:24:00,928 [ERROR] [MainThread] [root/media.py:1060]: Error creating corner mask, return default thumb: y1 must be greater than or equal to y0
+2026-01-18 01:24:00,964 [INFO] [Dummy-8] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-502fdaa8-f3c9-11f0-aa33-a424cece2db1
+2026-01-18 01:24:01,078 [ERROR] [MainThread] [root/api.py:84]: Weather response error 403: API key has been disabled.
+2026-01-18 01:24:01,078 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:24:11,240 [ERROR] [MainThread] [root/api.py:84]: Weather response error 403: API key has been disabled.
+2026-01-18 01:24:11,240 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:24:21,425 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:24:21,425 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:24:31,607 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:24:31,607 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:24:41,792 [ERROR] [MainThread] [root/api.py:84]: Weather response error 403: API key has been disabled.
+2026-01-18 01:24:41,792 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:24:51,981 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:24:51,981 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:25:02,252 [ERROR] [MainThread] [root/api.py:84]: Weather response error 403: API key has been disabled.
+2026-01-18 01:25:02,252 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:25:12,460 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:25:12,461 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:25:22,953 [ERROR] [MainThread] [root/api.py:84]: Weather response error 403: API key has been disabled.
+2026-01-18 01:25:22,953 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:25:33,164 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:25:33,165 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:25:43,335 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:25:43,335 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:25:53,526 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:25:53,527 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:26:03,711 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:26:03,712 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:26:13,899 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:26:13,899 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:26:24,067 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:26:24,068 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:26:34,258 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:26:34,258 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:26:44,438 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:26:44,438 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:26:54,622 [ERROR] [MainThread] [root/api.py:84]: Weather response error 403: API key has been disabled.
+2026-01-18 01:26:54,622 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:27:04,799 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:27:04,799 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:27:14,977 [ERROR] [MainThread] [root/api.py:84]: Weather response error 403: API key has been disabled.
+2026-01-18 01:27:14,978 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:27:25,159 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:27:25,159 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:27:35,336 [ERROR] [MainThread] [root/api.py:84]: Weather response error 403: API key has been disabled.
+2026-01-18 01:27:35,336 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:27:45,516 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:27:45,516 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:27:55,688 [ERROR] [MainThread] [root/api.py:84]: Weather response error 403: API key has been disabled.
+2026-01-18 01:27:55,688 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:28:05,852 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:28:05,852 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:28:16,023 [ERROR] [MainThread] [root/api.py:84]: Weather response error 403: API key has been disabled.
+2026-01-18 01:28:16,023 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:28:26,241 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:28:26,242 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:28:36,419 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:28:36,420 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:28:46,704 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:28:46,704 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:28:56,938 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:28:56,938 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:29:07,108 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:29:07,108 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:29:17,273 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:29:17,273 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:29:27,455 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:29:27,455 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:29:37,646 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:29:37,647 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:29:47,818 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:29:47,818 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:29:57,996 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:29:57,996 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:30:08,170 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:30:08,170 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:30:18,338 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:30:18,338 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:30:28,518 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:30:28,518 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:30:38,708 [ERROR] [MainThread] [root/api.py:84]: Weather response error 403: API key has been disabled.
+2026-01-18 01:30:38,708 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:30:48,897 [ERROR] [MainThread] [root/api.py:84]: Weather response error 403: API key has been disabled.
+2026-01-18 01:30:48,897 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:30:59,067 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:30:59,068 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:31:09,245 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:31:09,245 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:31:19,429 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:31:19,430 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:31:29,611 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:31:29,611 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:31:39,801 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:31:39,802 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:31:49,984 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:31:49,984 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:32:00,258 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:32:00,258 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:32:10,453 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:32:10,453 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:32:20,636 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:32:20,637 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:32:30,825 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:32:30,825 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:32:40,997 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:32:40,998 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:32:51,442 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:32:51,443 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:33:01,636 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:33:01,636 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:33:11,807 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:33:11,807 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:33:21,985 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:33:21,986 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:33:32,320 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:33:32,320 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:33:42,497 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:33:42,497 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:33:52,676 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:33:52,677 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:34:00,522 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:34:02,865 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:34:02,865 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:34:13,050 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:34:13,051 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:34:23,241 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:34:23,241 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:34:33,416 [ERROR] [MainThread] [root/api.py:84]: Weather response error 403: API key has been disabled.
+2026-01-18 01:34:33,416 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:34:43,615 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:34:43,615 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:34:53,820 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:34:53,820 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:34:55,140 [WARNING] [MainThread] [root/api.py:137]: Failed to fetch icon N/A: ProtocolUnknownError 301
+2026-01-18 01:35:03,992 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:35:03,992 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:35:14,176 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:35:14,176 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:35:24,372 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:35:24,373 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:35:34,543 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:35:34,543 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:35:44,712 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:35:44,713 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:35:55,050 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:35:55,051 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:36:05,513 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:36:05,513 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:36:15,685 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:36:15,685 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:36:25,961 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:36:25,961 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:36:36,140 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:36:36,140 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:36:46,313 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:36:46,313 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:36:56,480 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:36:56,480 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:37:06,650 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:37:06,651 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:37:16,825 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:37:16,825 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:37:27,002 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:37:27,003 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:37:37,182 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:37:37,182 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:37:47,354 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:37:47,354 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:37:57,525 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:37:57,525 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:38:07,699 [ERROR] [MainThread] [root/api.py:84]: Weather response error 403: API key has been disabled.
+2026-01-18 01:38:07,699 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:38:17,877 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:38:17,878 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:38:28,057 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:38:28,057 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:38:38,238 [ERROR] [MainThread] [root/api.py:84]: Weather response error 403: API key has been disabled.
+2026-01-18 01:38:38,239 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:38:48,753 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:38:48,754 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:38:58,963 [ERROR] [MainThread] [root/api.py:84]: Weather response error 403: API key has been disabled.
+2026-01-18 01:38:58,963 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:39:10,782 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:39:10,782 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:39:20,973 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:39:20,973 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:39:31,166 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:39:31,166 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:39:41,340 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:39:41,340 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:39:51,867 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:39:51,868 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:40:02,398 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:40:02,398 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:40:12,569 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:40:12,569 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:40:22,750 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:40:22,750 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:40:32,930 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:40:32,931 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:40:43,169 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:40:43,170 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:40:53,340 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:40:53,341 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:41:03,594 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:41:03,594 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:41:13,766 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:41:13,766 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:41:23,966 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:41:23,966 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:41:34,156 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:41:34,157 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:41:44,321 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:41:44,321 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:41:54,496 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:41:54,497 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:42:04,672 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:42:04,672 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:42:14,855 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:42:14,856 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:42:25,026 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:42:25,027 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:42:35,262 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:42:35,263 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:42:38,040 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: reload
+2026-01-18 01:42:38,042 [INFO] [Thread-1 (_run_server)] [root/controller.py:15]: Reloading Application from CLI...
+2026-01-18 01:42:38,154 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2026-01-18 01:42:38,154 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2026-01-18 01:42:38,347 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2026-01-18 01:42:38,348 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2026-01-18 01:42:38,360 [INFO] [Dummy-8] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2026-01-18 01:42:38,410 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2026-01-18 01:42:38,417 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2026-01-18 01:42:38,431 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2026-01-18 01:42:38,876 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-18 01:42:38,876 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-18 01:42:38,877 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-18 01:42:39,734 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2026-01-18 01:42:39,895 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2026-01-18 01:42:39,895 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2026-01-18 01:42:39,896 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ASUS\.config\yasb
+2026-01-18 01:42:39,899 [INFO] [Dummy-8] [root/event_listener.py:51]: Created named pipe yasb-eb3bca61-f3cb-11f0-a315-a424cece2db1
+2026-01-18 01:42:39,983 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-18 01:42:39,984 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-18 01:42:39,986 [DEBUG] [Dummy-11] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-18 01:42:40,034 [INFO] [Dummy-8] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-eb3bca61-f3cb-11f0-a315-a424cece2db1
+2026-01-18 01:42:40,060 [ERROR] [MainThread] [root/media.py:1060]: Error creating corner mask, return default thumb: y1 must be greater than or equal to y0
+2026-01-18 01:42:40,443 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:42:40,443 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:42:50,640 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:42:50,640 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:42:52,854 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2026-01-18 01:42:52,969 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2026-01-18 01:42:52,969 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2026-01-18 01:42:52,974 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2026-01-18 01:42:53,058 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2026-01-18 01:42:53,058 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2026-01-18 01:42:53,078 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2026-01-18 01:42:53,079 [DEBUG] [Dummy-11] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2026-01-18 01:42:53,083 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2026-01-18 01:42:53,107 [INFO] [Dummy-8] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2026-01-18 01:42:53,536 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-18 01:42:53,536 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-18 01:42:53,537 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-18 01:42:54,530 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2026-01-18 01:42:54,713 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2026-01-18 01:42:54,714 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2026-01-18 01:42:54,714 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ASUS\.config\yasb
+2026-01-18 01:42:54,738 [INFO] [Dummy-8] [root/event_listener.py:51]: Created named pipe yasb-f410de01-f3cb-11f0-a7c1-a424cece2db1
+2026-01-18 01:42:54,769 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-18 01:42:54,769 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-18 01:42:54,771 [DEBUG] [Dummy-11] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-18 01:42:54,853 [ERROR] [MainThread] [root/media.py:1060]: Error creating corner mask, return default thumb: y1 must be greater than or equal to y0
+2026-01-18 01:42:54,871 [INFO] [Dummy-8] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-f410de01-f3cb-11f0-a7c1-a424cece2db1
+2026-01-18 01:42:58,085 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:42:58,085 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:43:08,287 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:43:08,287 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:43:18,499 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:43:18,500 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:43:28,848 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:43:28,848 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:43:39,035 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:43:39,036 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:43:49,216 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:43:49,216 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:43:59,406 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:43:59,407 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:44:09,587 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:44:09,587 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:44:20,059 [ERROR] [MainThread] [root/api.py:84]: Weather response error 403: API key has been disabled.
+2026-01-18 01:44:20,060 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:44:25,329 [DEBUG] [MainThread] [wifi_widget/wifi_managers.py:262]: Scanning for WiFi networks...
+2026-01-18 01:44:30,228 [ERROR] [MainThread] [root/api.py:84]: Weather response error 403: API key has been disabled.
+2026-01-18 01:44:30,228 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:44:40,696 [ERROR] [MainThread] [root/api.py:84]: Weather response error 403: API key has been disabled.
+2026-01-18 01:44:40,696 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:44:50,867 [ERROR] [MainThread] [root/api.py:84]: Weather response error 403: API key has been disabled.
+2026-01-18 01:44:50,868 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:44:59,283 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: stop
+2026-01-18 01:44:59,283 [INFO] [Thread-1 (_run_server)] [root/controller.py:35]: Exiting Application from CLI...
+2026-01-18 01:44:59,388 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2026-01-18 01:44:59,388 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2026-01-18 01:44:59,454 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2026-01-18 01:44:59,455 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2026-01-18 01:44:59,472 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2026-01-18 01:44:59,479 [INFO] [Dummy-8] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2026-01-18 01:44:59,481 [DEBUG] [Dummy-11] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2026-01-18 01:44:59,483 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2026-01-18 01:45:00,637 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-18 01:45:00,638 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-18 01:45:00,638 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-18 01:45:01,299 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2026-01-18 01:45:01,710 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2026-01-18 01:45:01,712 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2026-01-18 01:45:01,713 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ASUS\.config\yasb
+2026-01-18 01:45:01,741 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-18 01:45:01,741 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-18 01:45:01,742 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-18 01:45:02,289 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2026-01-18 01:45:02,289 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:45:12,306 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2026-01-18 01:45:12,307 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:45:22,373 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2026-01-18 01:45:22,373 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:45:22,900 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: stop
+2026-01-18 01:45:22,900 [INFO] [Thread-1 (_run_server)] [root/controller.py:35]: Exiting Application from CLI...
+2026-01-18 01:45:23,001 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2026-01-18 01:45:23,001 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2026-01-18 01:45:26,153 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2026-01-18 01:45:26,164 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2026-01-18 01:45:26,209 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2026-01-18 01:45:26,311 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2026-01-18 01:45:26,311 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2026-01-18 01:45:26,319 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2026-01-18 01:45:26,320 [ERROR] [MainThread] [root/main.py:146]: Unhandled exception
+Traceback (most recent call last):
+  File "D:\a\yasb\yasb\src\core\widgets\yasb\media.py", line 632, in _update_interpolated_position
+RuntimeError: wrapped C/C++ object of type MediaWidget has been deleted
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\a\yasb\yasb\src\core\utils\widgets\media\media.py", line 395, in _interpolate_timeline
+  File "D:\a\yasb\yasb\src\core\widgets\yasb\media.py", line 201, in <lambda>
+  File "D:\a\yasb\yasb\src\core\widgets\yasb\media.py", line 658, in _update_interpolated_position
+RuntimeError: wrapped C/C++ object of type MediaWidget has been deleted
+2026-01-18 01:45:26,349 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-18 01:45:26,349 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-18 01:45:26,350 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-18 01:45:26,350 [ERROR] [MainThread] [root/main.py:74]: Another instance of the YASB is already running.
+2026-01-18 01:45:26,617 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-18 01:45:26,617 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-18 01:45:26,618 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-18 01:45:27,016 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2026-01-18 01:45:27,172 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2026-01-18 01:45:27,173 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2026-01-18 01:45:27,174 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ASUS\.config\yasb
+2026-01-18 01:45:27,194 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-4ef053c4-f3cc-11f0-a9fa-a424cece2db1
+2026-01-18 01:45:27,214 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-18 01:45:27,214 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-18 01:45:27,216 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-18 01:45:27,307 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-4ef053c4-f3cc-11f0-a9fa-a424cece2db1
+2026-01-18 01:45:35,209 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2026-01-18 01:45:35,311 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2026-01-18 01:45:35,311 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2026-01-18 01:45:35,316 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2026-01-18 01:45:35,385 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2026-01-18 01:45:35,385 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2026-01-18 01:45:35,389 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2026-01-18 01:45:35,403 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2026-01-18 01:45:35,408 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2026-01-18 01:45:35,417 [INFO] [Dummy-5] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2026-01-18 01:45:35,699 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-18 01:45:35,699 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-18 01:45:35,700 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-18 01:45:36,153 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2026-01-18 01:45:36,390 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2026-01-18 01:45:36,391 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2026-01-18 01:45:36,392 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ASUS\.config\yasb
+2026-01-18 01:45:36,425 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-546ed785-f3cc-11f0-a3ad-a424cece2db1
+2026-01-18 01:45:36,485 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-18 01:45:36,485 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-18 01:45:36,491 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-18 01:45:36,595 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-546ed785-f3cc-11f0-a3ad-a424cece2db1
+2026-01-18 01:45:48,761 [ERROR] [MainThread] [root/config.py:115]: The config file 'C:\Users\ASUS\.config\yasb\config.yaml' contains validation errors. Please fix:
+bars:
+- status-bar:
+  - window_flags:
+    - always_on_top:
+      - must be of boolean type
+
+2026-01-18 01:46:08,871 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2026-01-18 01:46:08,982 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2026-01-18 01:46:08,982 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2026-01-18 01:46:08,987 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2026-01-18 01:46:09,056 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2026-01-18 01:46:09,057 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2026-01-18 01:46:09,065 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2026-01-18 01:46:09,076 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2026-01-18 01:46:09,082 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2026-01-18 01:46:09,090 [INFO] [Dummy-5] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2026-01-18 01:46:09,372 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-18 01:46:09,372 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-18 01:46:09,373 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-18 01:46:09,728 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2026-01-18 01:46:09,877 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2026-01-18 01:46:09,877 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2026-01-18 01:46:09,878 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ASUS\.config\yasb
+2026-01-18 01:46:09,897 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-686480d8-f3cc-11f0-bf70-a424cece2db1
+2026-01-18 01:46:09,921 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-18 01:46:09,922 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-18 01:46:09,925 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-18 01:46:10,010 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-686480d8-f3cc-11f0-bf70-a424cece2db1
+2026-01-18 01:48:56,679 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: stop
+2026-01-18 01:48:56,679 [INFO] [Thread-1 (_run_server)] [root/controller.py:35]: Exiting Application from CLI...
+2026-01-18 01:48:56,791 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2026-01-18 01:48:56,791 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2026-01-18 01:48:56,862 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2026-01-18 01:48:56,862 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2026-01-18 01:48:56,864 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2026-01-18 01:48:56,868 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2026-01-18 01:48:56,870 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2026-01-18 01:48:59,373 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-18 01:48:59,373 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-18 01:48:59,374 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-18 01:48:59,889 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2026-01-18 01:48:59,974 [INFO] [MainThread] [root/api.py:60]: GitHubDataManager started...
+2026-01-18 01:49:00,142 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2026-01-18 01:49:00,142 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2026-01-18 01:49:00,143 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ASUS\.config\yasb
+2026-01-18 01:49:00,172 [INFO] [Dummy-6] [root/event_listener.py:51]: Created named pipe yasb-cde0df1c-f3cc-11f0-85ca-a424cece2db1
+2026-01-18 01:49:00,199 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-18 01:49:00,200 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-18 01:49:00,201 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-18 01:49:00,291 [INFO] [Dummy-6] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-cde0df1c-f3cc-11f0-85ca-a424cece2db1
+2026-01-18 01:49:01,001 [ERROR] [MainThread] [root/api.py:84]: Weather response error 401: API key is invalid.
+2026-01-18 01:49:01,001 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:49:09,595 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: stop
+2026-01-18 01:49:09,595 [INFO] [Thread-1 (_run_server)] [root/controller.py:35]: Exiting Application from CLI...
+2026-01-18 01:49:09,704 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2026-01-18 01:49:09,704 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2026-01-18 01:49:11,692 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2026-01-18 01:49:11,692 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2026-01-18 01:49:11,713 [INFO] [Dummy-6] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2026-01-18 01:49:11,732 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2026-01-18 01:49:11,838 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2026-01-18 01:49:11,838 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2026-01-18 01:49:11,849 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2026-01-18 01:49:11,849 [ERROR] [MainThread] [root/main.py:146]: Unhandled exception
+Traceback (most recent call last):
+  File "D:\a\yasb\yasb\src\core\widgets\yasb\media.py", line 632, in _update_interpolated_position
+RuntimeError: wrapped C/C++ object of type MediaWidget has been deleted
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\a\yasb\yasb\src\core\utils\widgets\media\media.py", line 395, in _interpolate_timeline
+  File "D:\a\yasb\yasb\src\core\widgets\yasb\media.py", line 201, in <lambda>
+  File "D:\a\yasb\yasb\src\core\widgets\yasb\media.py", line 658, in _update_interpolated_position
+RuntimeError: wrapped C/C++ object of type MediaWidget has been deleted
+2026-01-18 01:49:11,962 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-18 01:49:11,962 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-18 01:49:11,963 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-18 01:49:11,963 [ERROR] [MainThread] [root/main.py:74]: Another instance of the YASB is already running.
+2026-01-18 01:49:12,147 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-18 01:49:12,147 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-18 01:49:12,147 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-18 01:49:12,534 [ERROR] [MainThread] [root/weather.py:60]: API key or location is missing. Please provide a valid API key and location.
+2026-01-18 01:49:12,556 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2026-01-18 01:49:12,714 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2026-01-18 01:49:12,715 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2026-01-18 01:49:12,717 [INFO] [Dummy-3] [root/event_listener.py:51]: Created named pipe yasb-d55f3a9b-f3cc-11f0-a1ed-a424cece2db1
+2026-01-18 01:49:12,718 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ASUS\.config\yasb
+2026-01-18 01:49:12,770 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-18 01:49:12,770 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-18 01:49:12,771 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-18 01:49:12,836 [INFO] [Dummy-3] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-d55f3a9b-f3cc-11f0-a1ed-a424cece2db1
+2026-01-18 01:49:22,053 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: stop
+2026-01-18 01:49:22,053 [INFO] [Thread-1 (_run_server)] [root/controller.py:35]: Exiting Application from CLI...
+2026-01-18 01:49:22,162 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2026-01-18 01:49:22,162 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2026-01-18 01:49:22,225 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2026-01-18 01:49:22,226 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2026-01-18 01:49:22,228 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2026-01-18 01:49:22,232 [INFO] [Dummy-3] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2026-01-18 01:49:22,241 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2026-01-18 01:49:22,243 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2026-01-18 01:49:23,054 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-18 01:49:23,055 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-18 01:49:23,055 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-18 01:49:23,583 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2026-01-18 01:49:23,935 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2026-01-18 01:49:23,938 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2026-01-18 01:49:23,939 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ASUS\.config\yasb
+2026-01-18 01:49:23,967 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-18 01:49:23,967 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-18 01:49:23,968 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-18 01:49:24,022 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2026-01-18 01:49:24,022 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:49:34,049 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2026-01-18 01:49:34,049 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:49:44,067 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2026-01-18 01:49:44,067 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:49:54,083 [ERROR] [MainThread] [root/api.py:82]: Weather API invalid JSON response: Expecting value: line 1 column 1 (char 0)
+2026-01-18 01:49:54,083 [WARNING] [MainThread] [root/weather.py:594]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2026-01-18 01:49:57,512 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: stop
+2026-01-18 01:49:57,512 [INFO] [Thread-1 (_run_server)] [root/controller.py:35]: Exiting Application from CLI...
+2026-01-18 01:49:57,614 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2026-01-18 01:49:57,614 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2026-01-18 01:49:57,677 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2026-01-18 01:49:57,682 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2026-01-18 01:49:57,691 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2026-01-18 01:49:57,691 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2026-01-18 01:49:57,694 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2026-01-18 01:49:58,796 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-18 01:49:58,797 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-18 01:49:58,797 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-18 01:49:59,212 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2026-01-18 01:49:59,403 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2026-01-18 01:49:59,406 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2026-01-18 01:49:59,407 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ASUS\.config\yasb
+2026-01-18 01:49:59,425 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-f133d818-f3cc-11f0-9e2e-a424cece2db1
+2026-01-18 01:49:59,469 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-18 01:49:59,469 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-18 01:49:59,471 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-18 01:49:59,473 [DEBUG] [MainThread] [systray_widget/systray.py:526]: Loading state from C:\Users\ASUS\AppData\Local\YASB\systray_state_ONYMEDISPLAY1.json
+2026-01-18 01:49:59,496 [DEBUG] [SystrayMonitor] [systray_widget/systray.py:57]: Systray thread is starting...
+2026-01-18 01:49:59,544 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-f133d818-f3cc-11f0-9e2e-a424cece2db1
+2026-01-18 01:49:59,546 [DEBUG] [MainThread] [systray_widget/systray.py:277]: Systray thread started
+2026-01-18 01:49:59,748 [DEBUG] [SystrayMonitor] [systray_widget/systray_monitor.py:164]: Adding TaskbandHWND prop to hwnd 5702340
+2026-01-18 01:49:59,752 [DEBUG] [SystrayMonitor] [systray_widget/systray_monitor.py:242]: Finding real tray hwnd
+2026-01-18 01:49:59,759 [DEBUG] [MainThread] [systray_widget/systray_monitor.py:157]: Sending TaskbarCreated message: 49273
+2026-01-18 01:49:59,799 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-18 01:49:59.799239
+2026-01-18 01:54:11,113 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2026-01-18 01:54:11,216 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2026-01-18 01:54:11,217 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2026-01-18 01:54:11,223 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2026-01-18 01:54:11,324 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2026-01-18 01:54:11,325 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2026-01-18 01:54:11,327 [DEBUG] [MainThread] [systray_widget/systray.py:504]: Saving state to disk
+2026-01-18 01:54:11,327 [DEBUG] [MainThread] [systray_widget/systray.py:508]: Saving state to C:\Users\ASUS\AppData\Local\YASB\systray_state_ONYMEDISPLAY1.json
+2026-01-18 01:54:11,328 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 5702340
+2026-01-18 01:54:11,340 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2026-01-18 01:54:11,342 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2026-01-18 01:54:11,346 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2026-01-18 01:54:11,352 [INFO] [Dummy-5] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2026-01-18 01:54:11,367 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 5702340
+2026-01-18 01:54:11,623 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-18 01:54:11,624 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-18 01:54:11,625 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-18 01:54:12,166 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2026-01-18 01:54:12,423 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2026-01-18 01:54:12,424 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2026-01-18 01:54:12,427 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ASUS\.config\yasb
+2026-01-18 01:54:12,428 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-880327a5-f3cd-11f0-9d67-a424cece2db1
+2026-01-18 01:54:12,470 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-18 01:54:12,470 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-18 01:54:12,472 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-18 01:54:12,473 [DEBUG] [MainThread] [systray_widget/systray.py:526]: Loading state from C:\Users\ASUS\AppData\Local\YASB\systray_state_ONYMEDISPLAY1.json
+2026-01-18 01:54:12,480 [DEBUG] [SystrayMonitor] [systray_widget/systray.py:57]: Systray thread is starting...
+2026-01-18 01:54:12,537 [DEBUG] [MainThread] [systray_widget/systray.py:277]: Systray thread started
+2026-01-18 01:54:12,552 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-880327a5-f3cd-11f0-9d67-a424cece2db1
+2026-01-18 01:54:12,739 [DEBUG] [SystrayMonitor] [systray_widget/systray_monitor.py:164]: Adding TaskbandHWND prop to hwnd 5835072
+2026-01-18 01:54:12,744 [DEBUG] [SystrayMonitor] [systray_widget/systray_monitor.py:242]: Finding real tray hwnd
+2026-01-18 01:54:12,751 [DEBUG] [MainThread] [systray_widget/systray_monitor.py:157]: Sending TaskbarCreated message: 49273
+2026-01-18 01:54:13,747 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-18 01:54:13.747159
+2026-01-18 01:54:15,753 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2026-01-18 01:54:15,862 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2026-01-18 01:54:15,862 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2026-01-18 01:54:15,868 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2026-01-18 01:54:15,965 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2026-01-18 01:54:15,965 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2026-01-18 01:54:15,969 [DEBUG] [MainThread] [systray_widget/systray.py:504]: Saving state to disk
+2026-01-18 01:54:15,969 [DEBUG] [MainThread] [systray_widget/systray.py:508]: Saving state to C:\Users\ASUS\AppData\Local\YASB\systray_state_ONYMEDISPLAY1.json
+2026-01-18 01:54:15,970 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 5835072
+2026-01-18 01:54:15,976 [INFO] [Dummy-5] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2026-01-18 01:54:15,989 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2026-01-18 01:54:16,003 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2026-01-18 01:54:16,007 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2026-01-18 01:54:16,014 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 5835072
+2026-01-18 01:54:16,282 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-18 01:54:16,283 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-18 01:54:16,283 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-18 01:54:16,868 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2026-01-18 01:54:17,106 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2026-01-18 01:54:17,109 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2026-01-18 01:54:17,110 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ASUS\.config\yasb
+2026-01-18 01:54:17,135 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-8ace31e6-f3cd-11f0-bfe0-a424cece2db1
+2026-01-18 01:54:17,158 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-18 01:54:17,159 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-18 01:54:17,160 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-18 01:54:17,161 [DEBUG] [MainThread] [systray_widget/systray.py:526]: Loading state from C:\Users\ASUS\AppData\Local\YASB\systray_state_ONYMEDISPLAY1.json
+2026-01-18 01:54:17,167 [DEBUG] [SystrayMonitor] [systray_widget/systray.py:57]: Systray thread is starting...
+2026-01-18 01:54:17,219 [DEBUG] [MainThread] [systray_widget/systray.py:277]: Systray thread started
+2026-01-18 01:54:17,243 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-8ace31e6-f3cd-11f0-bfe0-a424cece2db1
+2026-01-18 01:54:17,420 [DEBUG] [SystrayMonitor] [systray_widget/systray_monitor.py:164]: Adding TaskbandHWND prop to hwnd 1052530
+2026-01-18 01:54:17,424 [DEBUG] [SystrayMonitor] [systray_widget/systray_monitor.py:242]: Finding real tray hwnd
+2026-01-18 01:54:17,432 [DEBUG] [MainThread] [systray_widget/systray_monitor.py:157]: Sending TaskbarCreated message: 49273
+2026-01-18 01:54:18,265 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-18 01:54:18.265501
+2026-01-18 01:54:23,991 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2026-01-18 01:54:24,100 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2026-01-18 01:54:24,100 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2026-01-18 01:54:24,104 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2026-01-18 01:54:24,205 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2026-01-18 01:54:24,206 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2026-01-18 01:54:24,208 [DEBUG] [MainThread] [systray_widget/systray.py:504]: Saving state to disk
+2026-01-18 01:54:24,209 [DEBUG] [MainThread] [systray_widget/systray.py:508]: Saving state to C:\Users\ASUS\AppData\Local\YASB\systray_state_ONYMEDISPLAY1.json
+2026-01-18 01:54:24,210 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 1052530
+2026-01-18 01:54:24,216 [INFO] [Dummy-5] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2026-01-18 01:54:24,229 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2026-01-18 01:54:24,241 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2026-01-18 01:54:24,244 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2026-01-18 01:54:24,253 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 1052530
+2026-01-18 01:54:24,501 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-18 01:54:24,502 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-18 01:54:24,502 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-18 01:54:25,056 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2026-01-18 01:54:25,301 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2026-01-18 01:54:25,301 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2026-01-18 01:54:25,303 [INFO] [Dummy-3] [root/event_listener.py:51]: Created named pipe yasb-8fb01dc4-f3cd-11f0-99d4-a424cece2db1
+2026-01-18 01:54:25,305 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ASUS\.config\yasb
+2026-01-18 01:54:25,357 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-18 01:54:25,357 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-18 01:54:25,360 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-18 01:54:25,361 [DEBUG] [MainThread] [systray_widget/systray.py:526]: Loading state from C:\Users\ASUS\AppData\Local\YASB\systray_state_ONYMEDISPLAY1.json
+2026-01-18 01:54:25,367 [DEBUG] [SystrayMonitor] [systray_widget/systray.py:57]: Systray thread is starting...
+2026-01-18 01:54:25,386 [DEBUG] [SystrayMonitor] [systray_widget/systray_monitor.py:242]: Finding real tray hwnd
+2026-01-18 01:54:25,408 [INFO] [Dummy-3] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-8fb01dc4-f3cd-11f0-99d4-a424cece2db1
+2026-01-18 01:54:25,415 [DEBUG] [MainThread] [systray_widget/systray.py:277]: Systray thread started
+2026-01-18 01:54:25,482 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-18 01:54:25.482834
+2026-01-18 01:54:25,616 [DEBUG] [SystrayMonitor] [systray_widget/systray_monitor.py:164]: Adding TaskbandHWND prop to hwnd 1052522
+2026-01-18 01:54:25,629 [DEBUG] [MainThread] [systray_widget/systray_monitor.py:157]: Sending TaskbarCreated message: 49273
+2026-01-18 01:56:15,286 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2026-01-18 01:56:15,397 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2026-01-18 01:56:15,398 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2026-01-18 01:56:15,403 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2026-01-18 01:56:15,497 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2026-01-18 01:56:15,497 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2026-01-18 01:56:15,499 [DEBUG] [MainThread] [systray_widget/systray.py:504]: Saving state to disk
+2026-01-18 01:56:15,500 [DEBUG] [MainThread] [systray_widget/systray.py:508]: Saving state to C:\Users\ASUS\AppData\Local\YASB\systray_state_ONYMEDISPLAY1.json
+2026-01-18 01:56:15,501 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 1052522
+2026-01-18 01:56:15,507 [INFO] [Dummy-3] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2026-01-18 01:56:15,519 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2026-01-18 01:56:15,524 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2026-01-18 01:56:15,528 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2026-01-18 01:56:15,543 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 1052522
+2026-01-18 01:56:15,814 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-18 01:56:15,814 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-18 01:56:15,815 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-18 01:56:16,377 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2026-01-18 01:56:16,617 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2026-01-18 01:56:16,620 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2026-01-18 01:56:16,621 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ASUS\.config\yasb
+2026-01-18 01:56:16,647 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-d20a241d-f3cd-11f0-816b-a424cece2db1
+2026-01-18 01:56:16,669 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-18 01:56:16,669 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-18 01:56:16,671 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-18 01:56:16,673 [DEBUG] [MainThread] [systray_widget/systray.py:526]: Loading state from C:\Users\ASUS\AppData\Local\YASB\systray_state_ONYMEDISPLAY1.json
+2026-01-18 01:56:16,674 [DEBUG] [SystrayMonitor] [systray_widget/systray.py:57]: Systray thread is starting...
+2026-01-18 01:56:16,731 [DEBUG] [MainThread] [systray_widget/systray.py:277]: Systray thread started
+2026-01-18 01:56:16,773 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-d20a241d-f3cd-11f0-816b-a424cece2db1
+2026-01-18 01:56:16,882 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-18 01:56:16.882561
+2026-01-18 01:56:16,932 [DEBUG] [SystrayMonitor] [systray_widget/systray_monitor.py:164]: Adding TaskbandHWND prop to hwnd 3870136
+2026-01-18 01:56:16,937 [DEBUG] [SystrayMonitor] [systray_widget/systray_monitor.py:242]: Finding real tray hwnd
+2026-01-18 01:56:16,944 [DEBUG] [MainThread] [systray_widget/systray_monitor.py:157]: Sending TaskbarCreated message: 49273
+2026-01-18 02:05:38,142 [DEBUG] [SystrayMonitor] [systray_widget/systray_monitor.py:242]: Finding real tray hwnd
+2026-01-18 02:05:44,967 [DEBUG] [SystrayMonitor] [systray_widget/systray_monitor.py:164]: Adding TaskbandHWND prop to hwnd 3870136
+2026-01-18 02:06:01,025 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: reload
+2026-01-18 02:06:01,026 [INFO] [Thread-1 (_run_server)] [root/controller.py:15]: Reloading Application from CLI...
+2026-01-18 02:06:01,136 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2026-01-18 02:06:01,136 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2026-01-18 02:06:01,156 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2026-01-18 02:06:01,156 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2026-01-18 02:06:01,161 [DEBUG] [MainThread] [systray_widget/systray.py:504]: Saving state to disk
+2026-01-18 02:06:01,161 [DEBUG] [MainThread] [systray_widget/systray.py:508]: Saving state to C:\Users\ASUS\AppData\Local\YASB\systray_state_ONYMEDISPLAY1.json
+2026-01-18 02:06:01,166 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 3870136
+2026-01-18 02:06:01,171 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2026-01-18 02:06:01,182 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2026-01-18 02:06:01,183 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2026-01-18 02:06:01,191 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 3870136
+2026-01-18 02:06:01,455 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-18 02:06:01,455 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-18 02:06:01,455 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-18 02:06:02,009 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2026-01-18 02:06:02,200 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2026-01-18 02:06:02,200 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2026-01-18 02:06:02,201 [INFO] [Dummy-3] [root/event_listener.py:51]: Created named pipe yasb-2f12772c-f3cf-11f0-b6cc-a424cece2db1
+2026-01-18 02:06:02,206 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ASUS\.config\yasb
+2026-01-18 02:06:02,275 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-18 02:06:02,275 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-18 02:06:02,277 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-18 02:06:02,278 [DEBUG] [MainThread] [systray_widget/systray.py:526]: Loading state from C:\Users\ASUS\AppData\Local\YASB\systray_state_ONYMEDISPLAY1.json
+2026-01-18 02:06:02,286 [DEBUG] [SystrayMonitor] [systray_widget/systray.py:57]: Systray thread is starting...
+2026-01-18 02:06:02,325 [DEBUG] [MainThread] [systray_widget/systray.py:277]: Systray thread started
+2026-01-18 02:06:02,336 [INFO] [Dummy-3] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-2f12772c-f3cf-11f0-b6cc-a424cece2db1
+2026-01-18 02:06:02,464 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-18 02:06:02.464684
+2026-01-18 02:06:02,527 [DEBUG] [SystrayMonitor] [systray_widget/systray_monitor.py:164]: Adding TaskbandHWND prop to hwnd 1249256
+2026-01-18 02:06:02,532 [DEBUG] [SystrayMonitor] [systray_widget/systray_monitor.py:242]: Finding real tray hwnd
+2026-01-18 02:06:02,542 [DEBUG] [MainThread] [systray_widget/systray_monitor.py:157]: Sending TaskbarCreated message: 49273
+2026-01-18 02:16:01,986 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-18 02:16:01.985859
+2026-01-18 02:26:02,272 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-18 02:26:02.272764
+2026-01-18 02:36:02,311 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-18 02:36:02.311599
+2026-01-18 02:43:22,246 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2026-01-18 02:43:22,349 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2026-01-18 02:43:22,349 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2026-01-18 02:43:22,369 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2026-01-18 02:43:22,555 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2026-01-18 02:43:22,557 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2026-01-18 02:43:22,563 [DEBUG] [MainThread] [systray_widget/systray.py:504]: Saving state to disk
+2026-01-18 02:43:22,564 [DEBUG] [MainThread] [systray_widget/systray.py:508]: Saving state to C:\Users\ASUS\AppData\Local\YASB\systray_state_ONYMEDISPLAY1.json
+2026-01-18 02:43:22,566 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 1249256
+2026-01-18 02:43:22,583 [INFO] [Dummy-3] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2026-01-18 02:43:22,594 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2026-01-18 02:43:22,599 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2026-01-18 02:43:22,603 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2026-01-18 02:43:22,641 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 1249256
+2026-01-18 02:43:22,862 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-18 02:43:22,863 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-18 02:43:22,863 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-18 02:43:24,094 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2026-01-18 02:43:24,500 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2026-01-18 02:43:24,500 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2026-01-18 02:43:24,505 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ASUS\.config\yasb
+2026-01-18 02:43:24,506 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-6796507e-f3d4-11f0-8387-a424cece2db1
+2026-01-18 02:43:24,631 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-18 02:43:24,632 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-18 02:43:24,640 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-18 02:43:24,671 [DEBUG] [MainThread] [systray_widget/systray.py:526]: Loading state from C:\Users\ASUS\AppData\Local\YASB\systray_state_ONYMEDISPLAY1.json
+2026-01-18 02:43:24,675 [DEBUG] [SystrayMonitor] [systray_widget/systray.py:57]: Systray thread is starting...
+2026-01-18 02:43:24,732 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-6796507e-f3d4-11f0-8387-a424cece2db1
+2026-01-18 02:43:24,747 [DEBUG] [SystrayMonitor] [systray_widget/systray_monitor.py:242]: Finding real tray hwnd
+2026-01-18 02:43:24,843 [DEBUG] [MainThread] [systray_widget/systray.py:277]: Systray thread started
+2026-01-18 02:43:24,920 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-18 02:43:24.920498
+2026-01-18 02:43:25,369 [DEBUG] [SystrayMonitor] [systray_widget/systray_monitor.py:164]: Adding TaskbandHWND prop to hwnd 8325032
+2026-01-18 02:43:25,429 [DEBUG] [MainThread] [systray_widget/systray_monitor.py:157]: Sending TaskbarCreated message: 49273
+2026-01-18 02:43:50,557 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2026-01-18 02:43:50,664 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2026-01-18 02:43:50,665 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2026-01-18 02:43:50,671 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2026-01-18 02:43:51,083 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2026-01-18 02:43:51,083 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2026-01-18 02:43:51,096 [DEBUG] [MainThread] [systray_widget/systray.py:504]: Saving state to disk
+2026-01-18 02:43:51,096 [DEBUG] [MainThread] [systray_widget/systray.py:508]: Saving state to C:\Users\ASUS\AppData\Local\YASB\systray_state_ONYMEDISPLAY1.json
+2026-01-18 02:43:51,097 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 8325032
+2026-01-18 02:43:51,105 [INFO] [Dummy-5] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2026-01-18 02:43:51,113 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2026-01-18 02:43:51,128 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2026-01-18 02:43:51,129 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2026-01-18 02:43:51,138 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 8325032
+2026-01-18 02:43:51,459 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-18 02:43:51,460 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-18 02:43:51,460 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-18 02:43:52,092 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2026-01-18 02:43:52,378 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2026-01-18 02:43:52,379 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2026-01-18 02:43:52,381 [INFO] [Dummy-3] [root/event_listener.py:51]: Created named pipe yasb-783440ac-f3d4-11f0-b990-a424cece2db1
+2026-01-18 02:43:52,384 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ASUS\.config\yasb
+2026-01-18 02:43:52,443 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-18 02:43:52,443 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-18 02:43:52,446 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-18 02:43:52,447 [DEBUG] [MainThread] [systray_widget/systray.py:526]: Loading state from C:\Users\ASUS\AppData\Local\YASB\systray_state_ONYMEDISPLAY1.json
+2026-01-18 02:43:52,454 [DEBUG] [SystrayMonitor] [systray_widget/systray.py:57]: Systray thread is starting...
+2026-01-18 02:43:52,502 [DEBUG] [MainThread] [systray_widget/systray.py:277]: Systray thread started
+2026-01-18 02:43:52,518 [DEBUG] [SystrayMonitor] [systray_widget/systray_monitor.py:242]: Finding real tray hwnd
+2026-01-18 02:43:52,533 [INFO] [Dummy-3] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-783440ac-f3d4-11f0-b990-a424cece2db1
+2026-01-18 02:43:52,819 [DEBUG] [SystrayMonitor] [systray_widget/systray_monitor.py:164]: Adding TaskbandHWND prop to hwnd 855968
+2026-01-18 02:43:52,841 [DEBUG] [MainThread] [systray_widget/systray_monitor.py:157]: Sending TaskbarCreated message: 49273
+2026-01-18 02:43:52,842 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-18 02:43:52.842445
+2026-01-18 02:47:29,210 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2026-01-18 02:47:29,316 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2026-01-18 02:47:29,316 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2026-01-18 02:47:29,325 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2026-01-18 02:47:29,447 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2026-01-18 02:47:29,459 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2026-01-18 02:47:29,476 [INFO] [Dummy-3] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2026-01-18 02:47:29,494 [DEBUG] [MainThread] [systray_widget/systray.py:504]: Saving state to disk
+2026-01-18 02:47:29,495 [DEBUG] [MainThread] [systray_widget/systray.py:508]: Saving state to C:\Users\ASUS\AppData\Local\YASB\systray_state_ONYMEDISPLAY1.json
+2026-01-18 02:47:29,502 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 855968
+2026-01-18 02:47:29,557 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2026-01-18 02:47:29,562 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2026-01-18 02:47:29,627 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2026-01-18 02:47:29,731 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 855968
+2026-01-18 02:47:30,048 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-18 02:47:30,049 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-18 02:47:30,049 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-18 02:47:30,857 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2026-01-18 02:47:31,158 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2026-01-18 02:47:31,159 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2026-01-18 02:47:31,163 [INFO] [Dummy-3] [root/event_listener.py:51]: Created named pipe yasb-fa9b7014-f3d4-11f0-a55d-a424cece2db1
+2026-01-18 02:47:31,163 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ASUS\.config\yasb
+2026-01-18 02:47:31,250 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-18 02:47:31,250 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-18 02:47:31,254 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-18 02:47:31,255 [DEBUG] [MainThread] [systray_widget/systray.py:526]: Loading state from C:\Users\ASUS\AppData\Local\YASB\systray_state_ONYMEDISPLAY1.json
+2026-01-18 02:47:31,263 [DEBUG] [SystrayMonitor] [systray_widget/systray.py:57]: Systray thread is starting...
+2026-01-18 02:47:31,291 [DEBUG] [SystrayMonitor] [systray_widget/systray_monitor.py:242]: Finding real tray hwnd
+2026-01-18 02:47:31,325 [DEBUG] [MainThread] [systray_widget/systray.py:277]: Systray thread started
+2026-01-18 02:47:31,325 [INFO] [Dummy-3] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-fa9b7014-f3d4-11f0-a55d-a424cece2db1
+2026-01-18 02:47:31,527 [DEBUG] [SystrayMonitor] [systray_widget/systray_monitor.py:164]: Adding TaskbandHWND prop to hwnd 21236152
+2026-01-18 02:47:31,552 [DEBUG] [MainThread] [systray_widget/systray_monitor.py:157]: Sending TaskbarCreated message: 49273
+2026-01-18 02:47:31,580 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-18 02:47:31.580486
+2026-01-18 02:50:24,693 [ERROR] [MainThread] [root/config.py:115]: The config file 'C:\Users\ASUS\.config\yasb\config.yaml' contains validation errors. Please fix:
+widgets:
+- power_menu:
+  - null value not allowed
+
+2026-01-18 02:50:30,351 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2026-01-18 02:50:30,465 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2026-01-18 02:50:30,465 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2026-01-18 02:50:30,472 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2026-01-18 02:50:30,627 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2026-01-18 02:50:30,627 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2026-01-18 02:50:30,631 [DEBUG] [MainThread] [systray_widget/systray.py:504]: Saving state to disk
+2026-01-18 02:50:30,632 [DEBUG] [MainThread] [systray_widget/systray.py:508]: Saving state to C:\Users\ASUS\AppData\Local\YASB\systray_state_ONYMEDISPLAY1.json
+2026-01-18 02:50:30,633 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 21236152
+2026-01-18 02:50:30,642 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2026-01-18 02:50:30,651 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2026-01-18 02:50:30,655 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2026-01-18 02:50:30,673 [INFO] [Dummy-3] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2026-01-18 02:50:30,679 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 21236152
+2026-01-18 02:50:30,958 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-18 02:50:30,959 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-18 02:50:30,959 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-18 02:50:31,730 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2026-01-18 02:50:32,075 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2026-01-18 02:50:32,076 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2026-01-18 02:50:32,079 [INFO] [Dummy-3] [root/event_listener.py:51]: Created named pipe yasb-6671302a-f3d5-11f0-965d-a424cece2db1
+2026-01-18 02:50:32,080 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ASUS\.config\yasb
+2026-01-18 02:50:32,158 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-18 02:50:32,158 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-18 02:50:32,161 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-18 02:50:32,163 [DEBUG] [MainThread] [systray_widget/systray.py:526]: Loading state from C:\Users\ASUS\AppData\Local\YASB\systray_state_ONYMEDISPLAY1.json
+2026-01-18 02:50:32,173 [DEBUG] [SystrayMonitor] [systray_widget/systray.py:57]: Systray thread is starting...
+2026-01-18 02:50:32,215 [DEBUG] [SystrayMonitor] [systray_widget/systray_monitor.py:242]: Finding real tray hwnd
+2026-01-18 02:50:32,248 [INFO] [Dummy-3] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-6671302a-f3d5-11f0-965d-a424cece2db1
+2026-01-18 02:50:32,264 [DEBUG] [MainThread] [systray_widget/systray.py:277]: Systray thread started
+2026-01-18 02:50:32,486 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-18 02:50:32.486221
+2026-01-18 02:50:32,525 [DEBUG] [SystrayMonitor] [systray_widget/systray_monitor.py:164]: Adding TaskbandHWND prop to hwnd 8129470
+2026-01-18 02:50:32,561 [DEBUG] [MainThread] [systray_widget/systray_monitor.py:157]: Sending TaskbarCreated message: 49273
+2026-01-18 02:50:39,004 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2026-01-18 02:50:39,106 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2026-01-18 02:50:39,106 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2026-01-18 02:50:39,112 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2026-01-18 02:50:39,294 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2026-01-18 02:50:39,294 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2026-01-18 02:50:39,297 [DEBUG] [MainThread] [systray_widget/systray.py:504]: Saving state to disk
+2026-01-18 02:50:39,299 [DEBUG] [MainThread] [systray_widget/systray.py:508]: Saving state to C:\Users\ASUS\AppData\Local\YASB\systray_state_ONYMEDISPLAY1.json
+2026-01-18 02:50:39,301 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 8129470
+2026-01-18 02:50:39,338 [INFO] [Dummy-3] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2026-01-18 02:50:39,390 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2026-01-18 02:50:39,401 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2026-01-18 02:50:39,404 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2026-01-18 02:50:39,416 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 8129470
+2026-01-18 02:50:39,934 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2026-01-18 02:50:39,935 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2026-01-18 02:50:39,936 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2026-01-18 02:50:40,621 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2026-01-18 02:50:40,918 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2026-01-18 02:50:40,918 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2026-01-18 02:50:40,920 [INFO] [Dummy-3] [root/event_listener.py:51]: Created named pipe yasb-6bb66938-f3d5-11f0-aabd-a424cece2db1
+2026-01-18 02:50:40,923 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ASUS\.config\yasb
+2026-01-18 02:50:40,987 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2026-01-18 02:50:40,987 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-18 02:50:40,989 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-01-18 02:50:40,992 [DEBUG] [MainThread] [systray_widget/systray.py:526]: Loading state from C:\Users\ASUS\AppData\Local\YASB\systray_state_ONYMEDISPLAY1.json
+2026-01-18 02:50:41,004 [DEBUG] [SystrayMonitor] [systray_widget/systray.py:57]: Systray thread is starting...
+2026-01-18 02:50:41,027 [DEBUG] [SystrayMonitor] [systray_widget/systray_monitor.py:242]: Finding real tray hwnd
+2026-01-18 02:50:41,073 [INFO] [Dummy-3] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-6bb66938-f3d5-11f0-aabd-a424cece2db1
+2026-01-18 02:50:41,122 [DEBUG] [MainThread] [systray_widget/systray.py:277]: Systray thread started
+2026-01-18 02:50:41,125 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-01-18 02:50:41.125187
+2026-01-18 02:50:41,326 [DEBUG] [SystrayMonitor] [systray_widget/systray_monitor.py:164]: Adding TaskbandHWND prop to hwnd 1445760
+2026-01-18 02:50:41,351 [DEBUG] [MainThread] [systray_widget/systray_monitor.py:157]: Sending TaskbarCreated message: 49273

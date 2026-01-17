@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Discord",
+    "path": "C:\\Users\\ASUS\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Discord Inc\\Discord.lnk",
+    "icon": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\app_1761572510110.png",
+    "type": "app",
+    "id": 1761572512029
+  },
+  {
+    "title": "Visual Studio Code",
+    "path": "C:\\Users\\ASUS\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio Code\\Visual Studio Code.lnk",
+    "icon": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\Code_1761572516243.png",
+    "type": "app",
+    "id": 1761572517301
+  },
+  {
+    "title": "Roblox Player",
+    "path": "C:\\Users\\ASUS\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Roblox\\Roblox Player.lnk",
+    "icon": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\RobloxPlayerBeta_1761572522988.png",
+    "type": "app",
+    "id": 1761572524181
+  },
+  {
+    "title": "Roblox Studio",
+    "path": "C:\\Users\\ASUS\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Roblox\\Roblox Studio.lnk",
+    "icon": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\RobloxStudioBeta_1761572528942.png",
+    "type": "app",
+    "id": 1761572529834
+  },
+  {
+    "title": "Google Chrome",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Google Chrome.lnk",
+    "icon": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\chrome_1761572534662.png",
+    "type": "app",
+    "id": 1761572535863
+  },
+  {
+    "title": "Firefox",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Firefox.lnk",
+    "icon": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\firefox_1761572538685.png",
+    "type": "app",
+    "id": 1761572540683
+  },
+  {
+    "title": "Settings",
+    "path": "explorer.exe shell:AppsFolder\\windows.immersivecontrolpanel_cw5n1h2txyewy!microsoft.windows.immersivecontrolpanel",
+    "icon": "C:\\Windows\\ImmersiveControlPanel\\images\\logo.targetsize-256_altform-unplated.png",
+    "type": "app",
+    "id": 1761572557531
+  },
+  {
+    "title": "WSL Settings",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\WSL Settings.lnk",
+    "icon": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\wsl_1761572561602.png",
+    "type": "app",
+    "id": 1761572562508
+  },
+  {
+    "title": "Burp Suite Community Edition",
+    "path": "C:\\Users\\ASUS\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Burp Suite Community Edition\\Burp Suite Community Edition.lnk",
+    "icon": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\BurpSuiteCommunity_1761799606653.png",
+    "type": "app",
+    "id": 1761799607877
+  }
+]
